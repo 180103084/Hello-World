@@ -1,3 +1,3 @@
 # Hello-World
-My name is Danelya
-My surname is Berdikulova
+My name is Danelya.
+My surname is Berdikulova.
